@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheresaMancini
-- 🌱 I’m currently learning JavaScript, Pyhton and SQL. 
+- 🌱 I’m currently learning Go, Pyhton and SQL. 
 - :mortar_board: Mechatronic Engineer 
 - 📫 How to reach me: LinkedIn: in/anatheresamancini
 
